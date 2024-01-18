@@ -14,7 +14,7 @@ const Projects = () => {
           description="This is a project that involves both Front-end and Back-end development, with a customer base of approximately 30,000+ people. My responsibilities include using MongoDB to support the customer database, creating APIs for e-commerce, and designing the web page interfaces. References: https://seriality.ai/"
         />
         <ProjectCard
-          src="/BotDis.png"
+          src="/Botdis.png"
           title="Discord bot for buying and connecting to MongoDB."
           description="I have created this bot to perform various functions related to trading, such as buying (via True Wallet API), rehwid, randomkey, genkey, etc., all through Discord. The primary database used for this is MongoDB. References: https://github.com/Thevi99/Bot_DC"
         />
