@@ -1,0 +1,25 @@
+
+
+.projects-container {
+    text-align: center;
+    background-color: transparent;
+    padding: 20px;
+  }
+  
+  .projects-title {
+    font-size: 30px; 
+    font-weight: bold;
+    background-image: linear-gradient(to right, #9b59b6, #3498db);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    padding: 10px;
+  }
+  
+  .projects-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+
+  
